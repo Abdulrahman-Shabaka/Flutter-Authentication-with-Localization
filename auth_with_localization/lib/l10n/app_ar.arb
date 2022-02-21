@@ -1,0 +1,30 @@
+{
+    
+    "heyIsThatYou":"مرحبا!\nهل هذا انت؟",
+    "email":" عنوان البريد الاكتروني",
+    "password":"الرقم السري",
+    "itIsMeatMailDotCom":"It's-me@mail.com",
+    "ourLitleSecret":"الرقم السري",
+    "letsGo":"هيا بنا ",
+    "firstTimeHere":"اول مرة هنا؟",
+    "signUp":"التحق",
+    "emailCanNotBeEmptyPleaseEnterYourEmailAddress":"يجب إدخال عنوان البريد الاكتروني الخاص بك",
+    "passwordCanNotBeEmptyPleaseEnterYourPassword":"يجب إدخال الرقم السري الخاص بك",
+    "login":"تسجيل الدخول",
+    "createAccount":"إنشاء حساب",
+    "welcomeToBo3lozCompany":"مرحبا\nفي شركة بؤلوظ",
+    "letMeGetToKnowYou":"اسمح لي\nبالتعرف عليك",
+    "name":"الاسم",
+    "whatShouldICallYou":"بماذا يجب علي ان اناديك؟",
+    "nameConNotBeEmptyPleaseEnterYourName":"يجب إدخال الاسم اتلخاص بك",
+    "alreadyHaveAccount":"لديك حساب سابقا؟",
+    "tests":"التحاليل",
+    "testsPackages":"باقات التحاليل",
+    "home":"الصقحة الرئيسيه",
+    "search":"بحث"
+
+
+
+
+
+}

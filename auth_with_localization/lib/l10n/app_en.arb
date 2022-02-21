@@ -1,0 +1,28 @@
+{
+    
+    "heyIsThatYou":"Hey!\nIs That You?",
+    "email":"Email",
+    "password":"Password",
+    "itIsMeatMailDotCom":"It's-me@mail.com",
+    "ourLitleSecret":"Our litle secret",
+    "letsGo":"Let's go ",
+    "firstTimeHere":"First Time Here?",
+    "signUp":"Sign Up",
+    "emailCanNotBeEmptyPleaseEnterYourEmailAddress":"email cann't be empty please enter your email address",
+    "passwordCanNotBeEmptyPleaseEnterYourPassword":"password cann't be empty please enter your password",
+    "login":"Login",
+    "createAccount":"Create Account",
+    "welcomeToBo3lozCompany":"Welcome\nto Bo3lz Company",
+    "letMeGetToKnowYou":"Let me\nget to know you",
+    "name":"Name",
+    "whatShouldICallYou":"What should i call you?",
+    "nameConNotBeEmptyPleaseEnterYourName":"name can't be empty please enter your name",
+    "alreadyHaveAccount":"Already have an account?",
+    "tests":"Tests",
+    "testsPackages":"Tests Packages",
+    "home":"Home",
+    "search":"Search"
+
+
+
+}
